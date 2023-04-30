@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-/* 	background-color: #fff; */
+	background-color: #f8f8f8;
 	margin: 0;
 	padding: 0;
 	font-family: 'sans-serif';
@@ -8,7 +8,7 @@ body{
 }
 
 .book-library{
-/* 	background-color: #f1f1f1; */
+	background-color: #ffffff;
 /* 	text-align: center; */
 /* 	padding: 20px 0; */
 	font-size: 20px;
@@ -19,6 +19,11 @@ body{
 	background-color: #f8f8f8;
 	text-align: center;
 }
+
+.author{
+	background-color: #777777;
+}
+
 .book{
 	background-color: #f8f8f8;
 	margin-top: 30px;
