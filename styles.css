@@ -2,13 +2,13 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: #f8f8f8;
+	background-color: #fff;
 }
 
 .book-library{
-	background-color: #ffffff;
-	font-size: 20px;
-	border-bottom: 1px solid #e6e6e6;
+	margin: 20px 0px;
+/* 	padding:10px; */
+/* 	background-color: #f8f8f8; */
 }
 
 .book-library h1{
@@ -19,6 +19,8 @@ body{
 .book{
 	margin-top: 30px;
 	padding: 10px
+	color: white;
+	background-color: #f8f8f8;
 }
 
 .color_author{
