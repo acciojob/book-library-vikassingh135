@@ -16,13 +16,13 @@ body{
 	text-align: center;
 }
 
-.author{
-	background-color: rgb(119,119,119);
-}
-
 .book{
 	margin-top: 30px;
 	padding: 10px
+}
+
+.color_author{
+	background-color: rgb(119,119,119);
 }
 
 .price {
